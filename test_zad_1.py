@@ -22,5 +22,5 @@ class MinimumTest(TestCase):
         self.assertIs(type(minimum(self.l_str)), str)
 
     def test_mix(self):
-        self.assertEqual(minimum(self.l_mix), None)
+        self.assertEqual(minimum(self.l_mix), "'<' not supported between instances of 'float' and 'str'")
 
