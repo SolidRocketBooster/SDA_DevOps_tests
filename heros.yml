@@ -1,0 +1,28 @@
+orc:
+  name: Doop'pa
+  class: Warrior
+  hp: 10
+  armour: 5
+  skills:
+    - vomit
+    - attack
+    - shit
+
+elf:
+  name: Klaudiusz
+  class: Bard
+  hp: 15
+  armour: 3
+  skills:
+    - shine
+    - acrobaty
+
+halfling:
+  name: Wania
+  class: Gopnik
+  hp: 10
+  armour: 100
+  skills:
+    - splun
+    - ej szwagier jest cwaniak
+    - przysiad

@@ -14,4 +14,3 @@ for hero in Heroes.values():
     hp = hero['hp']
     print(f'Class: {h_class}, Name: {name}, HP: {hp}, Armour: {armour}')
 
-
