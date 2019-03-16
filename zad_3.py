@@ -11,10 +11,11 @@ def gen_lists(lists, elements):
     return out_list
 
 
-print(gen_lists(4, 5))
+print(gen_lists(2, 5))
 
 
 def gen_lists2(lists, elements):
     return [[n_2*n_1 for n_2 in range(elements)] for n_1 in range(lists)]
+
 
 print(gen_lists2(2, 5))

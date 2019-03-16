@@ -1,0 +1,11 @@
+<!--Hero -> orc, elf -> name, class -> attributes = hp, armour-->
+<Heroes>
+    <Orc hp="15" armour="10">
+        <name>Doop'pa</name>
+        <class>Warrior</class>
+    </Orc>
+    <Elf hp="10" armour="5">
+        <name>Legolas</name>
+        <class>Mage</class>
+    </Elf>
+</Heroes>

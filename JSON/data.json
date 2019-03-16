@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Doop'pa",
+    "hp": 10,
+    "armour": 5,
+    "character_class": {
+      "name": "Warrior",
+      "strength": 42
+    }
+  }
+]
